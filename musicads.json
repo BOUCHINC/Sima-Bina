@@ -1,0 +1,151 @@
+{
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 1,
+      
+      "NativeAdRow"        : 10,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "ca-app-pub-3940256099942544/6300978111",
+        "AdMobInterstitial"   : "ca-app-pub-3940256099942544/1033173712",
+        "AdMobNative"         : "ca-app-pub-3940256099942544/2247696110",
+        "AdMobOpenAd"         : "ca-app-pub-3940256099942544/9257395921",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : false,
+    "showClose": true,
+    "adList": [
+      {
+        "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+      }
+    ]
+  },
+  
+  "AppsPromote": [
+    {
+      "name": "HAYEDEH SONG",
+      "packageName": "com.hayedeh1.song.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/f9skY2QYLhZ-zuvxnDv86s6NajmlbJPTiW0vdETZRCdxMWSZUJo8Z_T0yPfZZjRa97M=w240-h480-rw",
+      "download": "+500K"
+    },
+    {
+      "name": "MAHASTY SONG",
+      "packageName": "com.mahasty.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/jzHvIiEAIpqJoioCHT-MVThv93LXMvVmg9LxnJbXjdlVRdlAmCurxxl4aoBs9rXb-A=w240-h480-rw",
+      "download": "+600K"
+    },
+    {
+      "name": "SIAVASH GHOMAYSHI",
+      "packageName": "com.siavash.ghomayshi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/PXm7uJlK7kv_5Y8T0ERqRjdV6KVHKz0cT8qQfYIJzZI4PGHQ7fN-quHjmUqq9h6Yy1M=w240-h480-rw",
+      "download": "+400K"
+    },
+    {
+      "name": "Shatta Wale Offline",
+      "packageName": "com.home.scapes2.frastudio",
+      "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
+      "download": "+550K"
+    },
+    {
+      "name": "MUSLUM GURSES",
+      "packageName": "com.muslum.gurses.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/ZfgbbqXhq5fMda_oIhrURG5o_DIvX9npwFZSHpDPjjzIlrOz1_9p-Dhp36Soq8VM72A=w240-h480-rw",
+      "download": "+300K"
+    },
+    {
+      "name": "MORTEZA PASHAEI",
+      "packageName": "com.morteza.pashaei.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/Pm5zq6FGvf5sg2IQbqKuTKFOyUhaiLWgL5-6IGUprrWc397tPbljZpTMq5a1WGcfdw=w240-h480-rw",
+      "download": "+480K"
+    },
+    {
+      "name": "IRAJ SONG",
+      "packageName": "com.iraj.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/n0xbFe73thdGCHc9686Okg1nHkb5dKWl8SVKfLeSQzzsFvw7Mmv70Lc2YCeLcsY2A1F7=w240-h480-rw",
+      "download": "+280K"
+    },
+    {
+      "name": "SIMA BINA",
+      "packageName": "com.sima.bina.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/b_7RclSQEs93PpZIopp2B43Kki6Jh-tObCP6kpdOXO7Z8D2Iqr8zkvTCON-dXul6Gg=w240-h480-rw",
+      "download": "+520K"
+    },
+    {
+      "name": "JAVAD YASARI",
+      "packageName": "com.javad.yasari.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/-oYbvgyp7d6FA012vx-aa9o5wZaW0U0aHHd7zANDZ2PFei9edLy-aGfJFD0ICZIlS20=w240-h480-rw",
+      "download": "+850K"
+    },
+    {
+      "name": "IRAJ BASTAMI",
+      "packageName": "com.iraj.bastami.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/6bHza-QjEvI8NiBScTcFR2zEM8eqiZZ-UAqY3gGTehLNup-l5dcTmF-EiK9lFDt5eT9a=w240-h480-rw",
+      "download": "+350K"
+    },
+    {
+      "name": "AGHASI SONG",
+      "packageName": "com.aghasi.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/jsXe5nfPsEjaL8UmQxB68xGywAJl7qYlw81HhaYut-0QB9qXgAdjxQe1D6O2GEo244w=w240-h480-rw",
+      "download": "+4800K"
+    },
+    {
+      "name": "SHAHIN NAJAFI",
+      "packageName": "com.shahin.najafi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/K62Aw9b0heSEVL8nPVNR9K4Qwl1rFhnV75mqEnVGgBQS3u9m1IeJ68wq0DxRrRtmw-Bq=w240-h480-rw",
+      "download": "+250K"
+    },
+    {
+      "name": "NASER RAZAZI",
+      "packageName": "com.naser.razazi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/yEo8hOSttlMpen12trSxjfxD9evidBJfHNBbiV2N6BMwDkKmM39GVvrDqD2BGQ_IjOU=w240-h480-rw",
+      "download": "+550K"
+    },
+    {
+      "name": "MARDIH SONG",
+      "packageName": "com.mardih.songs.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/Xlv1FaDeM0yewX5UOxjsJNPe4LfWdmC-MXJY00TP0FJw8sb1cOuv_1GC0HZsgLYMLA=w240-h480-rw",
+      "download": "+680K"
+    },
+    {
+      "name": "MARJAN SONG",
+      "packageName": "com.marjan.song.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
+      "download": "+480K"
+    },
+    {
+      "name": "SATIN SONG",
+      "packageName": "com.satin.songs.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/Qad97uBMdFfXcj8XySswux7JPpSqstBZQ4OsheMBvWQIUAAB0_VQ4SGSzOkZpy2Dog=w240-h480-rw",
+      "download": "+480K"
+    }
+  ]
+  
+}
