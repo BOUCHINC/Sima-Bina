@@ -12,9 +12,9 @@
         "⚠️Warning: Facebook does not support OpenAd."
       ],
       
-      "BannerNetwork"      : "admob",
-      "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "admob",
+      "BannerNetwork"      : "facebook",
+      "InterstitialNetwork": "facebook",
+      "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
